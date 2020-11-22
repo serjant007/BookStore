@@ -9,16 +9,18 @@
 }
 
 .shopping-cart-table button {
-  margin-left: 5px;
-  margin-top: 5px;
+  margin: 2px 5px;
 }
 
 .shopping-cart-action {
   display: flex;
   justify-content: center;
-  border-top: none !important;
 }
 
 .shopping-cart__last-title {
   text-align: center;
+}
+
+.table thead th {
+  border-bottom: none;
 }
